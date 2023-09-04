@@ -1,0 +1,24 @@
+
+
+.form {
+  width: 20%;
+}
+
+form {
+  background-color: transparent !important;
+}
+
+.input {
+  background: transparent !important;
+}
+
+.user-icon {
+  font-size: 250px;
+}
+.user-i {
+  font-size: 100px;
+}
+
+.output{
+  margin-top: 70px;
+}
